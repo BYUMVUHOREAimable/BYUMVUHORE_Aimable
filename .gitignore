@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+
+# Environment files (if added in the future)
+.env
+
+# Docker
+*.tar
+*.log
+.docker/
+
+# VS Code / editor settings
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Optional: Ignore build artifacts
+dist/
+build/
+
+# Ignore Docker container volume mounts (if any)
+volumes/
