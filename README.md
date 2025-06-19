@@ -63,7 +63,7 @@ Output: Hello, DevOps!
 ## ✅ Check Running Containers
 ```bash
 docker ps
-Screenshot containers express-app and nginx-proxy running.
+This show: containers express-app and nginx-proxy running.
 ```
 ## ✅ Check Image on Docker Hub
 ```bash

@@ -11,7 +11,6 @@ npm-debug.log
 .docker/
 
 # VS Code / editor settings
-.vscode/
 .idea/
 
 # OS generated files
@@ -24,3 +23,7 @@ build/
 
 # Ignore Docker container volume mounts (if any)
 volumes/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
